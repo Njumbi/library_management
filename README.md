@@ -10,8 +10,6 @@ This is an app that allows a librarian to enter details of a book and place it i
 ## Installation
 
 Use node package manager to install library_management.
-
-```npm
 npm install --all
 
 ## Contributing
